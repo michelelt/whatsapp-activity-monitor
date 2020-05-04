@@ -29,5 +29,5 @@ This web tool is an automatic cralwer able to store all the times a contact in y
 naame you saved into your device
 
 ## Run
-python3 __main__.py
+python3 __main__.py\
 scan the QR code on the browser and press enter
